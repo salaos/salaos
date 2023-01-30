@@ -6,7 +6,7 @@ Before starting the neuefische frontend developer bootcamp I worked for an adver
 By the way - this is me vs. me with coding skills (soon)
 
 
-![alt text](https://github.com/salaos/salaos/blob/main/nina-picture.png?raw=true "Nina-picture") ![alt_text](https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47zbwm4bw9das7lnv75cbqostony23gkdmi4rb312d&rid=giphy.gif&ct=g "gif-cat") 
+![alt text](https://github.com/salaos/salaos/blob/main/test.png?raw=true "test") ![alt_text](https://media4.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif?cid=ecf05e47zbwm4bw9das7lnv75cbqostony23gkdmi4rb312d&rid=giphy.gif&ct=g "gif-cat") 
 
 
 
@@ -14,7 +14,4 @@ By the way - this is me vs. me with coding skills (soon)
   - [Figma](https://www.figma.com/file/4k8oeKXjaNyqHcD0NX412e/SAALFRANK?node-id=0%3A1&t=fSoIe7oYEHGlFgp2-1)
   - [Instagram](https://www.instagram.com/ninjaninsch/?hl=de)
   
-  
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=salaos&left_color=yellow&right_color=blue)
